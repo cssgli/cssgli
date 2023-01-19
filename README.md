@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there,
+My name is Guang Li. I am a software developer in C# and SQL Server.
+I am interested in LeetCode. Now I am starting to use GitHub more seriously.
